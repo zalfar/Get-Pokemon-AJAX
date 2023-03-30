@@ -1,0 +1,12 @@
+h1{
+    font-weight: bold;
+}
+
+button{
+    background-color: yellow;
+    color: black;
+}
+
+.content{
+    color: white;
+}
